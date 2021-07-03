@@ -27,7 +27,7 @@ Deployed Application: [Lifetracker Deployed Site](ADD_LINK_HERE)
 - [x] The activity tracked should be given a unique id for easy lookup.
 
 
-  * [Table Schema](life-tracker-schema.sql) 
+  * [Table Schema](/life-tracker-api/life-tracker-schema.sql) 
 
 ### Stretch Features
 
